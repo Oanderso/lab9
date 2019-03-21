@@ -1,0 +1,121 @@
+[
+    {
+        "outputFile": "/afs/ualberta.ca/home/o/a/oanderso/Desktop/Labs-301/lonelyTwitter_lab9/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/o/a/oanderso/Desktop/Labs-301/lonelyTwitter_lab9/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 50,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 39,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/o/a/oanderso/Desktop/Labs-301/lonelyTwitter_lab9/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 39,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 146,
+                    "endColumn": 46,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/o/a/oanderso/Desktop/Labs-301/lonelyTwitter_lab9/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 50,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/o/a/oanderso/Desktop/Labs-301/lonelyTwitter_lab9/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 50,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 55,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/o/a/oanderso/Desktop/Labs-301/lonelyTwitter_lab9/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 55,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 37,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "/afs/ualberta.ca/home/o/a/oanderso/Desktop/Labs-301/lonelyTwitter_lab9/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 37,
+                        "endOffset": 191
+                    }
+                }
+            }
+        ]
+    }
+]
